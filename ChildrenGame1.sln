@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.CompatibilityLayer.Editor", "Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj", "{11a09d51-9c7b-4fcf-d881-2b444c7e914a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.Modules.UnityMathematics", "Sirenix.OdinInspector.Modules.UnityMathematics.csproj", "{62757410-6ee4-c649-f832-ebf7c962c9fa}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.CompatibilityLayer", "Sirenix.OdinInspector.CompatibilityLayer.csproj", "{9aec8f41-0c99-f559-9a11-504498e6d66d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{bca45fe7-d911-221c-ab98-38029b3b54c1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{84e034bf-6572-c507-87c2-70f3e0e44d48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11a09d51-9c7b-4fcf-d881-2b444c7e914a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11a09d51-9c7b-4fcf-d881-2b444c7e914a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62757410-6ee4-c649-f832-ebf7c962c9fa}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62757410-6ee4-c649-f832-ebf7c962c9fa}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9aec8f41-0c99-f559-9a11-504498e6d66d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9aec8f41-0c99-f559-9a11-504498e6d66d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bca45fe7-d911-221c-ab98-38029b3b54c1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bca45fe7-d911-221c-ab98-38029b3b54c1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84e034bf-6572-c507-87c2-70f3e0e44d48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84e034bf-6572-c507-87c2-70f3e0e44d48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
